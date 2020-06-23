@@ -1,0 +1,1 @@
+print("This course was created within RStudio")
